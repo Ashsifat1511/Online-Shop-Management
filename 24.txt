@@ -1,0 +1,8 @@
+
+product name: d
+product id: 24
+cost price of product: 45
+selling price of product: 125
+quantity: 5
+ total cost: 225
+sell: 625

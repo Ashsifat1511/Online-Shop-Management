@@ -1,0 +1,8 @@
+
+product name: c
+product id: 23
+cost price of product: 98
+selling price of product: 125
+quantity: 2000
+ total cost: 196000
+sell: 250000

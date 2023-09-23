@@ -1,0 +1,8 @@
+
+product name: b
+product id: 22
+cost price of product: 750
+selling price of product: 2200
+quantity: 6000
+ total cost: 4.5e+06
+sell: 1.32e+07

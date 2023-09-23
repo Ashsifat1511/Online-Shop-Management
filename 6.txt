@@ -1,0 +1,8 @@
+
+product name: Product
+product id: 6
+percost ofproduct: 1
+persell of product: 120
+quantity: 140
+ total cost: 140
+sell: 16800: 49500

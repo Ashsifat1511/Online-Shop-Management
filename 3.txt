@@ -1,0 +1,5 @@
+
+number of working employees: 12
+employee salary: 12000
+employee name :J
+employee id: 3
